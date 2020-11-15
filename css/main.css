@@ -182,7 +182,7 @@ body {
   background: var(--body-bg-color);
   color: var(--text-color);
   font-family: Garamond, "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 0.5em;
+  font-size: 16em;
   line-height: 1.85;
   min-height: 100%;
   position: relative;
