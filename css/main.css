@@ -2,9 +2,9 @@
   --body-bg-color: #f5f7f9;
   --content-bg-color: #fff;
   --card-bg-color: #f5f5f5;
-  --text-color: #555;
+  --text-color: $black-dark;
   --blockquote-color: #666;
-  --link-color: #555;
+  --link-color: #fc6423;
   --link-hover-color: #222;
   --brand-color: #fff;
   --brand-hover-color: #fff;
@@ -12,8 +12,8 @@
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #f5f5f5;
   --btn-default-bg: #fff;
-  --btn-default-color: #555;
-  --btn-default-border-color: #555;
+  --btn-default-color: $black-dark;
+  --btn-default-border-color: $black-dark;
   --btn-default-hover-bg: #222;
   --btn-default-hover-color: #fff;
   --btn-default-hover-border-color: #222;
@@ -619,7 +619,7 @@ pre code {
   width: 100%;
 }
 .post-body .label {
-  color: #555;
+  color: $black-dark;
   padding: 0 2px;
 }
 .post-body .label.default {
