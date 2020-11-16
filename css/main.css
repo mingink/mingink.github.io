@@ -4,8 +4,8 @@
   --card-bg-color: #f5f5f5;
   --text-color: $black-dark;
   --blockquote-color: #666;
-  --link-color: #fc6423;
-  --link-hover-color: #222;
+  --link-color: $black-dark;
+  --link-hover-color: #fc6423;
   --brand-color: #fff;
   --brand-hover-color: #fff;
   --table-row-odd-bg-color: #f9f9f9;
@@ -222,7 +222,7 @@ p {
 }
 a,
 span.exturl {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #fc6423;
   color: var(--link-color);
   outline: 0;
   text-decoration: none;
